@@ -1,7 +1,7 @@
 from random import randint
 
 print("///// MATCH YOUR NUMBER WITH THE COMPUTER'S NUMBER /////")
-print("///// Press 'q' at any time to quit. /////\n")
+print("///// Press '0' at any time to quit. /////\n")
 
 while True:
     x = randint(1, 6)
